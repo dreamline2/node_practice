@@ -1,0 +1,19 @@
+{
+  "name": "node_import_export_practice",
+  "version": "1.0.0",
+  "description": "practice import and export",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "import",
+    "export",
+    "module"
+  ],
+  "author": "wilson",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^6.3.2"
+  }
+}
